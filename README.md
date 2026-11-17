@@ -90,3 +90,5 @@ Lets people ask a large database questions in plain English. Built at QLU.ai.
 <div align="center">
 
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=ShehzadAslamOza" width="1" height="1" alt="" />

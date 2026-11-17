@@ -7,9 +7,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=820&height=60&lines=Backend+systems+in+Go%2C+TypeScript+and+Python;Built+Morpheus%3A+one+view+of+13+environments;Double-entry+ledgers+and+billing+that+add+up;Text-to-SQL+with+OpenAI%2C+Anthropic+and+Gemini;Postgres+%E2%86%92+ClickHouse%3A+queries+10%E2%80%93100%C3%97+faster" alt="Backend systems in Go, TypeScript and Python. Built Morpheus. Double-entry ledgers and billing. Text-to-SQL with OpenAI, Anthropic and Gemini. Postgres to ClickHouse, 10 to 100 times faster." />
 
-<a href="https://www.linkedin.com/in/muhammad-shehzad-aslam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/muhammad-shehzad-aslam"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:shehzadaslamoza@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:shehzadaslamoza@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
 
 <br/><br/>
 

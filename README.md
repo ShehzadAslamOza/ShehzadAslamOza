@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=github.com/ShehzadAslamOza.png&w=240&h=240&fit=cover&mask=circle&output=png" width="120" alt="Muhammad Shehzad" />
-
-<h2>Muhammad Shehzad</h2>
-
-Software engineer. Backend systems, data infrastructure and LLM applications.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img width="100%" src="assets/header-light.svg" alt="Muhammad Shehzad. Software engineer: backend systems, data infrastructure and LLM applications." />
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=820&height=60&lines=Backend+systems+in+Go%2C+TypeScript+and+Python;Built+Morpheus%3A+one+view+of+13+environments;Double-entry+ledgers+and+billing+that+add+up;Text-to-SQL+with+OpenAI%2C+Anthropic+and+Gemini;Postgres+%E2%86%92+ClickHouse%3A+queries+10%E2%80%93100%C3%97+faster" alt="Backend systems in Go, TypeScript and Python. Built Morpheus. Double-entry ledgers and billing. Text-to-SQL with OpenAI, Anthropic and Gemini. Postgres to ClickHouse, 10 to 100 times faster." />
 

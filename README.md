@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0F3D3E,100:14B8A6&height=230&section=header&text=MUHAMMAD%20SHEHZAD&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%C2%B7%20BACKEND%2C%20PLATFORM%20AND%20LLM%20SYSTEMS&descSize=17&descAlignY=58&descColor=99F6E4" alt="Muhammad Shehzad, Software Engineer: backend, platform and LLM systems" />
-
 <img src="https://images.weserv.nl/?url=github.com/ShehzadAslamOza.png&w=240&h=240&fit=cover&mask=circle&output=png" width="120" alt="Muhammad Shehzad" />
+
+<h2>Muhammad Shehzad</h2>
+
+Software engineer. Backend systems, data infrastructure and LLM applications.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=820&height=60&lines=Backend+systems+in+Go%2C+TypeScript+and+Python;Built+Morpheus%3A+one+view+of+13+environments;Double-entry+ledgers+and+billing+that+add+up;Text-to-SQL+with+OpenAI%2C+Anthropic+and+Gemini;Postgres+%E2%86%92+ClickHouse%3A+queries+10%E2%80%93100%C3%97+faster" alt="Backend systems in Go, TypeScript and Python. Built Morpheus. Double-entry ledgers and billing. Text-to-SQL with OpenAI, Anthropic and Gemini. Postgres to ClickHouse, 10 to 100 times faster." />
 
@@ -90,7 +92,5 @@ Previously an AI and data engineer at **QLU.ai**, where I built a model-agnostic
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0F3D3E,100:14B8A6&height=110&section=footer" alt="" />
 
 </div>
